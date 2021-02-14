@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @yashjain4411
-- 👀 I’m interested in software engineering , mathematics and football.
-- 🌱 I’m currently learning golang and flutter.
-- 📫 How to reach me 
+👋 Hi, I’m @yashjain4411
+<br>
+👀 I’m interested in software engineering , mathematics and football.
+<br>
+🌱 I’m currently learning golang and flutter.
+<br>
+📫 How to reach me 
 <br>
 <a href="https://www.facebook.com/yashjain4411/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/jainyash4411" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
